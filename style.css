@@ -40,6 +40,10 @@ section {
 #projects{
   background-color: #82f449;
 }
+#SocialMedia{
+  background-color: red;
+}
+
 
 .keyboard-box:hover::before {
   opacity: 0.2;
