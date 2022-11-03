@@ -44,7 +44,11 @@ section {
   background-color: #ff0000;
 }
 
+.sosmed{
+width: 200px;
+height: 200px;
 
+}
 .keyboard-box:hover::before {
   opacity: 0.2;
 }
