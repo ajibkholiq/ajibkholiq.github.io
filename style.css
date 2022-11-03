@@ -40,13 +40,22 @@ section {
 #projects{
   background-color: #82f449;
 }
-#SocialMedia{
+#contact {
   background-color: #ff0000;
 }
 
-.sosmed{
-width: 200px;
-height: 200px;
+.sosmed2{
+  margin: 20px auto;
+  display: inline-block;
+  text-align: center;
+
+}
+.sosmed
+{
+  margin: 20px;
+width: 100px;
+height: 100px;
+
 
 }
 .keyboard-box:hover::before {
