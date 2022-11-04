@@ -40,8 +40,12 @@ section {
 #projects{
   background-color: #82f449;
 }
-#contact {
-  background-color: #ff0000;
+#skill {
+  background-color: yellow;
+}
+.card-text a{
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .sosmed2{
@@ -54,7 +58,7 @@ section {
 {
   margin: 20px;
 width: 100px;
-height: 100px;
+height: 85px;
 
 
 }
