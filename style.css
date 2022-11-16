@@ -129,6 +129,7 @@ height: 50px;
   transform: translate3d(-50%, -52%, 100px) rotate(5deg) scale(1.2);
 }
 .progress{
-  width: 240px;
+  width: 245px;
   height: 1.2rem;
+
 }
