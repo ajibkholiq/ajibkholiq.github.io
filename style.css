@@ -136,7 +136,28 @@ hr{
   height: 1.2rem;
 
 }
+#galeri{
+  background-color: gray;
+}
 .galeri{
   width: 300px;
   height: 330px;
+  border-radius: 25px;
+}
+#jasa{
+  background-color: black;
+}
+#jasa .card{
+  background-color: rgb(9, 9, 91);
+}
+#jasa .card p {
+  font: bold;
+  size: 2rem;
+  color: #fff;
+}
+ #jasa .card img {
+  width: 128px;
+  height: 128px;
+  margin: 20px auto;
+  border-radius: 50%;
 }
