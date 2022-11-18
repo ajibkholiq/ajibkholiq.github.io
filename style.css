@@ -137,7 +137,7 @@ hr{
 
 }
 #galeri{
-  background-color: gray;
+  background-color: rgb(60, 9, 91);
 }
 .galeri{
   width: 300px;
@@ -151,7 +151,7 @@ hr{
   background-color: rgb(9, 9, 91);
 }
 #jasa .card p {
-  font: bold;
+  font-weight: bold;
   size: 2rem;
   color: #fff;
 }
